@@ -44,9 +44,9 @@ description: how to guide to connect a USB printer
 
 **NOTE:**
 
-**Printer name** - This is the name that the printer will show inside of CloudWaitress.
+**Printer name** - This is the name that the printer will show inside of ShePOS.
 
-**API Key** - This needs to be copied from the printer settings inside of CloudWaitress.
+**API Key** - This needs to be copied from the printer settings inside of ShePOS.
 
 **Number of copies** - This will determine how many copies of the are printed.
 
