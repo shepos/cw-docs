@@ -2,7 +2,7 @@
 description: >-
   Driver Tracking powered by Shipday.com (previously know as QuestTag.com)
   provides customer notifications with real-time delivery driver tracking for
-  CloudWaitress delivery orders.
+  ShePOS delivery orders.
 ---
 
 # How to add Driver Tracking
@@ -10,7 +10,7 @@ description: >-
 ## Features
 
 * Easy-to-use dashboard
-* CloudWaitress orders automatically added
+* ShePOS orders automatically added
 * Real-time tracking of drivers for restaurant and customer
 * Mobile app for drivers
 * Customer email notifications
@@ -22,7 +22,7 @@ description: >-
 
 {% embed url="https://youtu.be/ZRzKbq3M-co" caption="" %}
 
-1. Open your CloudWaitress account - [admin.cloudwaitress.com](https://admin.cloudwaitress.com/).
+1. Open your ShePOS account - [admin.shepos.com](https://admin.shepos.com).
 2. Select 'Manage' for the Restaurant you would like to integrate.
 3. Go to 'Settings' &gt; 'Integrations' &gt; Click on the 'Shipday Logo'.
 4. Paste the Shipday API key from your Shipday.com account.
