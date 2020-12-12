@@ -6,7 +6,7 @@ description: >-
 
 # Setup PayPal Payments
 
-PayPal is one of the most widely used online payment methods. ShePOS makes use of PayPal's REST express checkout payment integration. This allows us to process payments on your behalf with the funds going straight to your account. Please be aware that PayPal is only available in certain countries and currencies. You can see them [here](https://developer.paypal.com/docs/integration/direct/rest-api-payment-country-currency-support/).
+PayPal is one of the most widely used online payment methods. CloudWaitress makes use of PayPal's REST express checkout payment integration. This allows us to process payments on your behalf with the funds going straight to your account. Please be aware that PayPal is only available in certain countries and currencies. You can see them [here](https://developer.paypal.com/docs/integration/direct/rest-api-payment-country-currency-support/).
 
 {% hint style="danger" %}
 We highly recommend using Stripe instead of PayPal for online payments. PayPal occasionally has various service issues in our experience. See how Stripe payments guide instead below.
@@ -20,13 +20,13 @@ Once PayPal is enabled, the option will be available to customers during the che
 
 ## Requirements
 
-In order to use PayPal with ShePOS, you will need a **fully valid business account**. If you already have a PayPal business account, you can skip this step.
+In order to use PayPal with CloudWaitress, you will need a **fully valid business account**. If you already have a PayPal business account, you can skip this step.
 
 If you do not already have one, sign up at [https://www.paypal.com/webapps/mpp/account-selection](https://www.paypal.com/webapps/mpp/account-selection). You can also upgrade your personal account to a business one from within your account settings.
 
 ## Connecting Your PayPal Account
 
-#### Create a REST API Application
+### Create a REST API Application
 
 1. Visit [https://developer.paypal.com/developer/applications/](https://developer.paypal.com/developer/applications/)
 2. Log into your PayPal account using the login in button
@@ -37,7 +37,7 @@ If you do not already have one, sign up at [https://www.paypal.com/webapps/mpp/a
 
 ![PayPal REST apps](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image_141scma.png)
 
-#### Copy Live Application Credentials
+### Copy Live Application Credentials
 
 1. After creating your application, you will be on the page where you can copy your credentials
 2. Change from the "Sandbox" to "Live" view using the buttons on the top right

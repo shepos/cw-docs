@@ -15,7 +15,7 @@ Every aspect of the system runs online and therefore requires you to be connecte
 * Consider exclusively using a 3G / 4G mobile internet connection. Certain countries have a much more reliable mobile network such as Australia.
 
 {% hint style="warning" %}
-IT staff occasionally set up an internet firewall for small business to prevent accessing harmful content. Ensure that shepos.com is white-listed on your firewall to avoid connection issues to our servers.
+IT staff occasionally set up an internet firewall for small business to prevent accessing harmful content. Ensure that cloudwaitress.com is white-listed on your firewall to avoid connection issues to our servers.
 {% endhint %}
 
 ## Computer or Tablet
@@ -38,7 +38,7 @@ Compatible devices:
 
 ## Recommended Computers & Tablets
 
-We highly recommend using an Android device or Windows 10 tablet/computer.  Windows provides the greatest flexibility and allows for wireless order printing whilst being able to use the order and table booking dashboard.
+We highly recommend using an Android device or Windows 10 tablet/computer. Windows provides the greatest flexibility and allows for wireless order printing whilst being able to use the order and table booking dashboard.
 
 ### Worldwide
 
