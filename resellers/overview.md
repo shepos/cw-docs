@@ -6,17 +6,17 @@ description: >-
 
 # Overview
 
-With a reseller account, you will get access to your own white-labelled and customized online admin interface hosted under your own domain. Any customer accounts created through this admin interface will be tagged under your main reseller account. These accounts are not tied into the CloudWaitress billing system at all and they will not receive any marketing e-mail from us. While you manage the billing of your customers, we will only bill you.
+With a reseller account, you will get access to your own white-labelled and customized online admin interface hosted under your own domain. Any customer accounts created through this admin interface will be tagged under your main reseller account. These accounts are not tied into the ShePOS billing system at all and they will not receive any marketing e-mail from us. While you manage the billing of your customers, we will only bill you.
 
 ## What's Included
 
 ### Online Admin Interface
 
-The online admin interface we provide is the exact same as the one found on our website at [https://admin.cloudwaitress.com](https://admin.cloudwaitress.com), but as stated it is modified to your business and any references to CloudWaitress are stripped out. Any customer accounts created through your admin portal will be tagged as part of your reseller account. This admin interface is also where your customers will go to manage their account information and orders. This can be hosted at any domain name of your choice.
+The online admin interface we provide is the exact same as the one found on our website at [https://admin.shepos.com](https://admin.shepos.com), but as stated it is modified to your business and any references to ShePOS are stripped out. Any customer accounts created through your admin portal will be tagged as part of your reseller account. This admin interface is also where your customers will go to manage their account information and orders. This can be hosted at any domain name of your choice.
 
 ### Custom Domain Name Integration
 
-Under CloudWaitress, all new accounts can select a subdomain name under the main 'cloudwaitress.com' domain. As part of your reseller account, all online stores created will instead be assigned a sub-domain under your custom domain name.
+Under ShePOS, all new accounts can select a subdomain name under the main 'shepos.com' domain. As part of your reseller account, all online stores created will instead be assigned a sub-domain under your custom domain name.
 
 ### Comprehensive Support
 
@@ -51,7 +51,7 @@ For example, the admin interface can be located at "admin.example.com". All your
 
 ### Support E-mail Address
 
-We require one support email address to white-label all support and system emails sent to customers. This includes order notification e-mails. If this is not provided, your customers will receive emails from "support@cloudwaitress.com ".
+We require one support email address to white-label all support and system emails sent to customers. This includes order notification e-mails. If this is not provided, your customers will receive emails from "support@shepos.com ".
 
 Please note, Gmail, Hotmail and other e-mail hosting providers will not work for this. A custom domain email address is mandatory.
 
@@ -74,7 +74,7 @@ On average, it takes 2 days to complete the reseller account set up once we have
 
 #### Difference between standard accounts and accounts created under your reseller system
 
-Reseller customer accounts do not have any subscription with CloudWaitress. This means they do not receive any bills, invoices or charges from us.
+Reseller customer accounts do not have any subscription with ShePOS. This means they do not receive any bills, invoices or charges from us.
 
 Reseller customer accounts are not tied into our mailing systems meaning they do not receive any marketing/help emails from us.
 
@@ -82,5 +82,5 @@ Reseller customer accounts are not tied into our mailing systems meaning they do
 
 We want to have a mutually beneficial relationship with our resellers. We see our role as being able to provide a reliable and robust online ordering system that is always being improved. The role of the reseller lies in the implementation and packaging of the system for businesses.
 
-To avoid the issue of your clients potentially being upset at a difference in pricing from resellers and CloudWaitress itself, it's best to take a value-added pricing approach. What this means is to find ways to add value on top of the bare online ordering system. For example, you can offer packages that include system setup, facebook ad designs, printers, staff training, ongoing support and much more.
+To avoid the issue of your clients potentially being upset at a difference in pricing from resellers and ShePOS itself, it's best to take a value-added pricing approach. What this means is to find ways to add value on top of the bare online ordering system. For example, you can offer packages that include system setup, facebook ad designs, printers, staff training, ongoing support and much more.
 

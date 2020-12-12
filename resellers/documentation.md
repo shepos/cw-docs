@@ -7,11 +7,11 @@ description: Learn how to manage your white-labelled support documentation for y
 ## Creating Your Support Documentation
 
 1. Visit [https://github.com](https://github.com) and create an account
-2. Go to [https://github.com/realfresh/cw-docs](https://github.com/realfresh/cw-docs) and press the fork button on the top right to create your own copy under your account
+2. Go to [https://github.com/shepos/docs](https://github.com/shepos/docs) and press the fork button on the top right to create your own copy under your account
 3. Visit [https://www.gitbook.com](https://www.gitbook.com/) and register an account
 4. Create your first documentation space
 5. In your documentation space, using the left navigation bar, select integrations \(cube icon\)
-6. Enable github in the integrations list. Select list all repositories, login to your github account and select your forked "cw-docs" repository that you acquired from the previous steps
+6. Enable github in the integrations list. Select list all repositories, login to your github account and select your forked "docs" repository that you acquired from the previous steps
 7. Next, select "Sync master branch only" and continue
 8. Then select "I write my content on github" 
 9. After this, your forked documentation repository will be synced over to gitbook
