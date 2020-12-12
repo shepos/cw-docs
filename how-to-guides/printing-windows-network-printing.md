@@ -18,17 +18,17 @@ description: How to guide to print with a network printer
 
 ![](../.gitbook/assets/untitled-2%20%285%29.png)
 
-4. If your printer is not showing use these instructions to set it up [Printer Set up](https://www.notion.so/cloudwaitresswiki/Printing-Add-a-printer-18689e4654fe4978b20aeb82b581d81e).
+4. If your printer is not showing use these instructions to set it up [Printer Set up](https://www.notion.so/sheposwiki/Printing-Add-a-printer-18689e4654fe4978b20aeb82b581d81e).
 
 5. To test that the printer is working, please press Print Test Page
 
 ![](../.gitbook/assets/untitled-3%20%281%29.png)
 
-6. If the test page does not print. Then please connect and install the printer correctly. Please see : [Printer Set up](https://www.notion.so/cloudwaitresswiki/Printing-Add-a-printer-18689e4654fe4978b20aeb82b581d81e).
+6. If the test page does not print. Then please connect and install the printer correctly. Please see : [Printer Set up](https://www.notion.so/sheposwiki/Printing-Add-a-printer-18689e4654fe4978b20aeb82b581d81e).
 
 7. Open the PushPrinter for Windows program application
 
-8. Go to the 'settings' cog and select the default or CloudWaitress provider profile from the dropdown list.
+8. Go to the 'settings' cog and select the default or ShePOS provider profile from the dropdown list.
 
 ![](../.gitbook/assets/untitled-4%20%282%29.png)
 
@@ -60,9 +60,9 @@ description: How to guide to print with a network printer
 {% hint style="danger" %}
 **NOTE:**
 
-**Printer name** - This is the name that the printer will show inside of CloudWaitress.
+**Printer name** - This is the name that the printer will show inside of ShePOS.
 
-**API Key** - This needs to be copied from the printer settings inside of CloudWaitress.
+**API Key** - This needs to be copied from the printer settings inside of ShePOS.
 
 **Number of copies** - This will determine how many copies of the are printed.
 
