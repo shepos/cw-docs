@@ -12,19 +12,19 @@ As much as this feature sounds great, it's honestly not very pleasant for people
 
 Visit [https://developers.facebook.com](https://developers.facebook.com). If you are not already signed into Facebook, you can sign in with your regular Facebook account.
 
-Once done, select the "My Apps" button on the top right and select "create new app".
+Once done, select the "My Apps" button on the top right and select "Create App".
 
-![](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image_f92n5y.png)
+![](../.gitbook/assets/fb-createapp%20%281%29.png)
 
 Enter your business name for your app name along with your email address and press create
 
-After creating the app, you will be taken to the app dashboard. On the left menu, go to "Settings &gt; Basic"
+After creating the app, you will be taken to the app dashboard. On the left menu, go to "Settings &gt; Basic", then scroll to the bottom and click "Add Platform"
 
-![](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image_wtsxiz.png)
+![](../.gitbook/assets/fb-addplatform.png)
 
-Choose "Page Tab". You will now need to fill in your store URL under "Secure Page Tab URL" and what you want to call your page tab under "Page Tab Name". Your store URL can either be your ShePOS subdomain such as "[https://yourdomain.shepos.com](https://yourdomain.shepos.com)" or your custom domain name if setup
+Choose "Page Tab". You will now need to fill in your store URL under "Secure Page Tab URL" and what you want to call your page tab under "Page Tab Name". Your store URL can either be your ShePOS subdomain such as "[https://your-resto.shepos.com](https://your-resto.shepos.com)" or your custom domain name if setup
 
-![](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image_cb565a.png)
+![](../.gitbook/assets/fb-pagetab.png)
 
 To add the page tab to your Facebook page, you will need your Facebook App ID which you will see highlighted in orange in the previous photo at the top of the page
 

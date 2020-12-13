@@ -10,7 +10,7 @@ Visit [https://developers.facebook.com/](https://developers.facebook.com/) and l
 
 On the top right corner, select "My Apps" and press "Create App"
 
-![](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image_aqheot.png)
+![](../.gitbook/assets/fb-createapp.png)
 
 Select "Manage Business Integrations", then click "Continue"
 
