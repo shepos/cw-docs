@@ -8,7 +8,7 @@ description: >-
 
 Visit [https://developers.facebook.com/](https://developers.facebook.com/) and login to your Facebook account
 
-On the top right corner, select "My Apps" and press "Add New App" \(now Create App\)
+On the top right corner, select "My Apps" and press "Create App"
 
 ![](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image_aqheot.png)
 
@@ -34,13 +34,15 @@ Scroll down and press the "Add Platform" button, and select "Website"
 
 Enter your ordering site URL into the "Site URL" box and then press "Save Changes" on the bottom right.
 
-![](../.gitbook/assets/fb-websiteurl.png)
+![](../.gitbook/assets/fb-siteurl.png)
 
-On the left navigation menu, press "Products" and press the "Set Up" button for Facebook Login.
+On the left navigation menu, press "Products" and scroll to the "Add Products to Your App" section.
 
-On the next screen, select "Web", you should see your "Site URL" already filled out, press "Save"
+Press the "Set Up" button for Facebook Login.
 
-![](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image_gdcuti.png)
+On the next screen, select "Web", you should see your "Site URL" already filled out, if not then you can enter it now, then press "Save"
+
+![](../.gitbook/assets/fb-productsqs.png)
 
 On the left menu, under "Products &gt; Facebook Login", select "Settings"
 
@@ -48,7 +50,7 @@ Enable "Embedded Browser OAuth Login"
 
 Enter your store domain into the "Valid OAuth Redirect URIs" field and press "Save Changes"
 
-![](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image_hbyf21.png)
+![](../.gitbook/assets/fb-validoauth.png)
 
 Finally, copy your Facebook App ID as shown on the top of the app dashboard
 
