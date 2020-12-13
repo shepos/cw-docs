@@ -8,23 +8,33 @@ description: >-
 
 Visit [https://developers.facebook.com/](https://developers.facebook.com/) and login to your Facebook account
 
-On the top right corner, select "My Apps" and press "Add New App"
+On the top right corner, select "My Apps" and press "Add New App" \(now Create App\)
 
 ![](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image_aqheot.png)
 
-Fill out the form and create the app
+Select "Manage Business Integrations", then click "Continue"
+
+Fill out the form as follows:
+
+* App Display Name: ShePOS
+* App Contact Email: your email address
+* App Purpose: Yourself or your own business
+
+Click "Create App"
+
+Complete the security check, then click "Submit"
 
 On the app dashboard the left menu, select "Settings &gt; Basic". Enter your website domain into the "App Domains" field
 
-![](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image_iokp6p.png)
+![](../.gitbook/assets/fb-appdomain.png)
 
-Scroll down and press the "Add Platform" button and select "Website
+Scroll down and press the "Add Platform" button, and select "Website"
 
 ![](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image_5fdlaq.png)
 
 Enter your ordering site URL into the "Site URL" box and then press "Save Changes" on the bottom right.
 
-![](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image_pa5uog.png)
+![](../.gitbook/assets/fb-websiteurl.png)
 
 On the left navigation menu, press "Products" and press the "Set Up" button for Facebook Login.
 
