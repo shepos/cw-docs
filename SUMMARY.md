@@ -3,7 +3,6 @@
 * [Overview](README.md)
 * [Getting Started](getting-started/README.md)
   * [Hardware Requirements](getting-started/hardware-requirements-1.md)
-  * [10-Minute Quickstart](getting-started/10-minute-quickstart.md)
   * [Setup Your Menus](getting-started/setup-your-menus.md)
   * [Configure Your Services](getting-started/configure-your-services.md)
   * [Customize Your Design](getting-started/customize-your-design.md)
@@ -31,8 +30,4 @@
   * [Special Features](platform-information/special-features/README.md)
     * [Public Holiday Surcharge](platform-information/special-features/public-holiday-surcharge.md)
     * [COVID-19 Discount for United Kingdom](platform-information/special-features/covid-19-discount-for-united-kingdom.md)
-* [Resellers](resellers/README.md)
-  * [Overview](resellers/overview.md)
-  * [Getting Started](resellers/getting-started.md)
-  * [Documentation](resellers/documentation.md)
 
