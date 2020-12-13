@@ -20,8 +20,6 @@ description: >-
 
 ## Set-up Shipday Integration
 
-{% embed url="https://youtu.be/ZRzKbq3M-co" caption="" %}
-
 1. Open your ShePOS account - [admin.shepos.com](https://admin.shepos.com).
 2. Select 'Manage' for the Restaurant you would like to integrate.
 3. Go to 'Settings' &gt; 'Integrations' &gt; Click on the 'Shipday Logo'.

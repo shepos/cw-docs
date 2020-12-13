@@ -7,7 +7,7 @@ description: >-
 # Setup Facebook Ordering
 
 {% hint style="danger" %}
-As much as this feature sounds great, it's honestly not very pleasant for people to order through Facebook. These tabs are also only available in desktop versions of Facebook further limiting them. That means it won't work on for users on their mobile phones. Facebook also regularly makes changes and sometimes things break unexpectedly. As such, overall we recommend against using this feature. Simply sending people to your ordering domain is a far more reliable option.
+As much as this feature sounds great, it's honestly not very pleasant for people to order through Facebook. These tabs are also only available in desktop versions of Facebook further limiting them. That means it won't work for users on their mobile phones. Facebook also regularly makes changes and sometimes things break unexpectedly. As such, overall we recommend against using this feature. Simply sending people to your ordering domain is a far more reliable option.
 {% endhint %}
 
 Visit [https://developers.facebook.com](https://developers.facebook.com). If you are not already signed into Facebook, you can sign in with your regular Facebook account.
