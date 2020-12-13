@@ -6,6 +6,8 @@ description: >-
 
 # How To Guides
 
+Here are the articles in this section:
+
 
 
 {% api-method method="get" host="https://api.cakes.com" path="/v1/cakes/:id" %}
