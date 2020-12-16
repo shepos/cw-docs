@@ -44,7 +44,7 @@ We highly recommend using an Android device or Windows 10 tablet/computer. Windo
 
 Windows 10 tablets are abundant and cheap these days. You can't go wrong choosing from one of the major brands. Some notable brands include:
 
-* Lenevo \(Lenovo Tab M10 recommended\)
+* Lenevo
 * ASUS
 * HP
 * Microsoft - Surface Pro Tablet
