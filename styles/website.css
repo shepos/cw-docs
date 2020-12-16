@@ -1,4 +1,4 @@
-e[class*="-footer-"], [class*="-navPagesLinks-"], [class*="-pageFooterColumns-"] { display: none !important }
+[class*="-footer-"], [class*="-navPagesLinks-"], [class*="-pageFooterColumns-"] { display: none !important }
 
 [class*="-body-"], [class*="-bodyContent-"], [class*="-wholePageSticky-"], [class*="-whiteCard-"] { 
   color: #aaa !important; 
