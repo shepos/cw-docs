@@ -22,7 +22,8 @@ When Stripe is enabled, customers can choose from the online payment option when
 4. Next, open up your restaurant dashboard and navigate to "Settings &gt; Payments &gt; Stripe"
 5. Enable Stripe payments using the "Enable" switch
 6. Copy the "Publishable Key" and "Secret Key" from the Stripe dashboard into the restaurant dashboard
-7. Set your payment currency in the restaurant dashboard and save the settings
+7. Set your payment currency in the restaurant dashboard
+8. "Save" the settings
 
 ![Stripe API keys](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image_4cpfy8.png)
 
@@ -36,7 +37,7 @@ Once this is done, you can use the credit card number "4242 4242 4242 4242" with
 
 ## Validating Your Stripe Account
 
-To withdraw online payments to your bank, you will need to ensure your Stripe account is fully valid. Pleae, ensure you have completed all their required validations.
+To withdraw online payments to your bank, you will need to ensure your Stripe account is fully valid. Please, ensure you have completed all their required validations.
 
 ## Stripe Fee's
 
