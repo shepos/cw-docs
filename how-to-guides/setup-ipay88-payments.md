@@ -25,10 +25,10 @@ When iPay88 is enabled, customers can choose from the online payment option when
 7. Click "Add Method"
 8. Click on "iPay88"
 9. Enable iPay88 payments using the "Enable" switch
-10. Copy the "API Entry URL", "API Re-Query URL", "Payment ID", "Merchant Code", and "Merchant Key" from the iPay88 dashboard into the restaurant dashboard
+10. Copy the "API Entry URL", "API Re-Query URL", "Payment ID", "Merchant Code", and "Merchant Key" data from the iPay88 dashboard into the restaurant dashboard
 11. Set your payment currency in the restaurant dashboard and save the settings
 
-![Stripe API keys](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image_4cpfy8.png)
+![iPay88 API keys](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image_4cpfy8.png)
 
 ## Testing Payments
 
