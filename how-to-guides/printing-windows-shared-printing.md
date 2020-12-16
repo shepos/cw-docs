@@ -6,11 +6,11 @@ description: how to guide to connect a USB printer
 
 ## 1. Please go to Windows control Panel
 
-![](../.gitbook/assets/untitled%20%283%29%20%281%29.png)
+![](../.gitbook/assets/untitled%20%283%29%20%281%29%20%281%29.png)
 
 ## 2. Open 'Devices and Printers'
 
-![](../.gitbook/assets/untitled-1%20%284%29%20%281%29.png)
+![](../.gitbook/assets/untitled-1%20%284%29.png)
 
 ## 3. Right click and select 'Printer Properties'
 
@@ -20,7 +20,7 @@ description: how to guide to connect a USB printer
 
 ## 5. To test that the printer is working, please press Print Test Page
 
-![](../.gitbook/assets/untitled-3%20%284%29.png)
+![](../.gitbook/assets/untitled-3%20%284%29%20%281%29.png)
 
 ## 5. If the test page does not print. Then please connect and install the printer correctly. Please see : [Printer Set up](https://www.notion.so/cloudwaitresswiki/Printing-Add-a-printer-18689e4654fe4978b20aeb82b581d81e).
 

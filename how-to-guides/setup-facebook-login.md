@@ -10,7 +10,7 @@ Visit [https://developers.facebook.com/](https://developers.facebook.com/) and l
 
 On the top right corner, select "My Apps" and press "Create App"
 
-![](../.gitbook/assets/fb-createapp.png)
+![](../.gitbook/assets/fb-createapp%20%281%29.png)
 
 Select "Manage Business Integrations", then click "Continue"
 
