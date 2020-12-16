@@ -34,11 +34,11 @@ When iPay88 is enabled, customers can choose from the online payment option when
 
 ## Testing Payments
 
-If you would like to do a test payment, copy your test API keys from Stripe. You can do this by toggling the "Viewing test data" switch.
+If you would like to do a test payment, copy your test API keys from iPay88. You can do this by toggling the "Viewing test data" switch.
 
-![Stripe test data](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image_1bjx53a.png)
+![iPay88 test data](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image_1bjx53a.png)
 
-Once this is done, you can use the credit card number "4242 4242 4242 4242" with any valid expiry, CVC and zip code. This card will allow you to make a dummy payment.
+Once this is done, you can use the credit card number "XXXX XXXX XXXX XXXX" with any valid expiry, CVC and zip code. This card will allow you to make a dummy payment.
 
 ## Validating Your iPay88 Account
 
