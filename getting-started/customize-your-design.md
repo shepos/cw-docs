@@ -21,7 +21,7 @@ To get a great looking site quickly, just use our base theme, add your logo and 
 
 ## Recommend Images Dimensions
 
-* Logo image - 300 pixels wide by 100 pixels high wide
+* Logo image - 300 pixels wide by 100 pixels high
 * Header image - 1920 pixels wide by 500 pixels high
 * Logo icon - 350 by 350 pixel square
 
