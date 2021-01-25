@@ -14,7 +14,7 @@ Customers with Apple Pay-compatible devices can utilize this payment method to e
 
 ## Requirements
 
-In order to configure and use Apple Pay with ShePOS, you need to prepare some business accounts and tools as follows:
+In order to configure and use Apple Pay with SHEPOS, you need to prepare some business accounts and tools as follows:
 
 * A Checkout.com business account. You can send an inquiry to create a new account to Checkout.com here - [https://www.checkout.com/contact-sales](https://www.checkout.com/contact-sales)
 * An Apple developer account; make sure you have a proper role to create identifiers and certificates.
