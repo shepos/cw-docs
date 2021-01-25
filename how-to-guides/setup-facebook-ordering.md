@@ -14,7 +14,7 @@ Visit [https://developers.facebook.com](https://developers.facebook.com). If you
 
 Once done, select the "My Apps" button on the top right and select "Create App".
 
-![](../.gitbook/assets/fb-createapp%20%281%29%20%281%29.png)
+![](../.gitbook/assets/fb-createapp%20%281%29%20%282%29.png)
 
 Enter your business name for your app name along with your email address and press create
 
