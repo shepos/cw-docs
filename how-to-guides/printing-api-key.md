@@ -4,7 +4,7 @@ description: >-
   configuration to your PushPrinter application and receipt printer.
 ---
 
-# Printing - API Key
+# Setup API Key Printing
 
 1. Login to your SHEPOS account at [admin.shepos.com](https://admin.cloudwaitress.com/login?redirect=%2F) and go to Settings&gt;System&gt;Receipt Printing&gt;Create Printer.
 
