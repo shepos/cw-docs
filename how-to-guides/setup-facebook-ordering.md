@@ -22,7 +22,7 @@ After creating the app, you will be taken to the app dashboard. On the left menu
 
 ![](../.gitbook/assets/fb-addplatform.png)
 
-Choose "Page Tab". You will now need to fill in your store URL under "Secure Page Tab URL" and what you want to call your page tab under "Page Tab Name". Your store URL can either be your ShePOS subdomain such as "[https://your-resto.shepos.com](https://your-resto.shepos.com)" or your custom domain name if setup. When you are done, click "Save Changes".
+Choose "Page Tab". You will now need to fill in your store URL under "Secure Page Tab URL" and what you want to call your page tab under "Page Tab Name". Your store URL can either be your SHEPOS subdomain such as "[https://your-resto.shepos.com](https://your-resto.shepos.com)" or your custom domain name if setup. When you are done, click "Save Changes".
 
 ![](../.gitbook/assets/fb-pagetab.png)
 
