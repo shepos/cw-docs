@@ -53,7 +53,7 @@ In order to configure and use Apple Pay with SHEPOS, you need to prepare some bu
 2. Under the Merchant Domains section, click Add Domain.
 3. Enter the domain for your business and click Save.
 4. Click Download to get the `.txt` file.
-5. You should store this file in an accessible place. The domain verification step is not completed yet. We're going to get back to this as we configure Apple Pay on ShePOS.
+5. You should store this file in an accessible place. The domain verification step is not completed yet. We're going to get back to this as we configure Apple Pay on SHEPOS.
 
 ### Create your Apple Pay Certificates
 
@@ -86,11 +86,11 @@ After going through all the above steps, you should have the following at your h
 * A `apple-developer-merchantid-domain-association.txt` file that is provided by Apple when you add the domain.
 * A `.key` and `.pem` certificate files.
 
-## Enable Apple Pay in ShePOS Dashboard
+## Enable Apple Pay in SHEPOS Dashboard
 
-After configuring Apple Developer Account and Checkout.com, we need to do some steps on the ShePOS dashboard to make Apple Pay fully functional.
+After configuring Apple Developer Account and Checkout.com, we need to do some steps on the SHEPOS dashboard to make Apple Pay fully functional.
 
-1. Head over your restaurant settings in your ShePOS dashboard.
+1. Head over your restaurant settings in your SHEPOS dashboard.
 2. Click on the **Payments** tab and click **Add Payment Method**.
 3. Select **Apple Pay \(Checkout.com\)** in the payment method list, and click **Add Method**.
 
