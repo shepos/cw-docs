@@ -25,7 +25,7 @@ description: How to guide to print with a network printer
 
 1. If the test page does not print. Then please connect and install the printer correctly. Please see : [Printer Set up](https://www.notion.so/cloudwaitresswiki/Printing-Add-a-printer-18689e4654fe4978b20aeb82b581d81e).
 2. Open the PushPrinter for Windows program application
-3. Go to the 'settings' cog and select the Default or ShePOS provider profile from the dropdown list.
+3. Go to the 'settings' cog and select the Default or SHEPOS provider profile from the dropdown list.
 4. Enable 'Automatically start PushPrinter'. \(This allows the application to auto-start when resetting your machine\).
 
 ![](../.gitbook/assets/untitled-4%20%282%29.png)
@@ -54,9 +54,9 @@ description: How to guide to print with a network printer
 {% hint style="danger" %}
 **NOTE:**
 
-**Printer name** - This is the name that the printer will show inside of ShePOS.
+**Printer name** - This is the name that the printer will show inside of SHEPOS.
 
-**API Key** - This needs to be copied from the printer settings inside of ShePOS.
+**API Key** - This needs to be copied from the printer settings inside of SHEPOS.
 
 **Number of copies** - This will determine how many copies of the are printed.
 
