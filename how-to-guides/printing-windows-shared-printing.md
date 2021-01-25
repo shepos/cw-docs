@@ -2,7 +2,7 @@
 description: how to guide to connect a USB printer
 ---
 
-# Printing - Windows Shared Printing
+# Setup Windows Shared Printing
 
 ## 1. Please go to Windows control Panel
 
