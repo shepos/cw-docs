@@ -16,7 +16,7 @@ Select "Manage Business Integrations", then click "Continue"
 
 Fill out the form as follows:
 
-* App Display Name: ShePOS
+* App Display Name: SHEPOS
 * App Contact Email: your email address
 * App Purpose: Yourself or your own business
 
