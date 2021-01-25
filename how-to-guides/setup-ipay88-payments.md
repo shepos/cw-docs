@@ -46,7 +46,7 @@ To withdraw online payments to your bank, you will need to ensure your iPay88 ac
 
 ## iPay88 Fee's
 
-We are not responsible for your iPay88 account management or fees. Your iPay88 account is simply linked to your ShePOS account to process charges on your behalf with the money going straight to your account.
+We are not responsible for your iPay88 account management or fees. Your iPay88 account is simply linked to your SHEPOS account to process charges on your behalf with the money going straight to your account.
 
 As such it is important you are aware of iPay88's payment processing fees. You can read more here [https://support.ipay88.co.id/general-information](https://support.ipay88.co.id/general-information). Please also take the time to read their FAQ and support to clear up any issues you may have.
 
